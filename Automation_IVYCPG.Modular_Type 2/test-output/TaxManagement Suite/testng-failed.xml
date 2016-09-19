@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TaxManagement Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="TM_TG_TC_01 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TG_TC_01 Test(failed) -->
+  <test name="TM_TG_TC_02 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TG_TC_02 Test(failed) -->
+  <test name="TM_TG_TC_03 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TG_TC_03 Test(failed) -->
+  <test name="TM_TG_TC_04_ToverifyDELETE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TG_TC_04_ToverifyDELETE Test(failed) -->
+  <test name="TM_TGM_TC_01_ToverifyADDscreen Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TGM_TC_01_ToverifyADDscreen Test(failed) -->
+  <test name="TM_TGM_TC_02_ToverifyEDIT Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TGM_TC_02_ToverifyEDIT Test(failed) -->
+  <test name="TM_TGM_03_ToverifyDELETE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_02 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_01 -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE -->
+      <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.TM_TG_TC_03 -->
+      <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM -->
+    </classes>
+  </test> <!-- TM_TGM_03_ToverifyDELETE Test(failed) -->
+</suite> <!-- Failed suite [TaxManagement Suite] -->

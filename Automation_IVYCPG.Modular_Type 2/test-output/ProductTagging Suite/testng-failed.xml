@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ProductTagging Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="PT_MSL_TC_02_ToverifyADD Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_MSL_TC_02_ToverifyADD Test(failed) -->
+  <test name="PT_MSL_TC_05_ToverifyGroupADD Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_MSL_TC_05_ToverifyGroupADD Test(failed) -->
+  <test name="PT_MSL_TC_06_ToverifyPCM Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_MSL_TC_06_ToverifyPCM Test(failed) -->
+  <test name="PT_MSL_TC_09_ToverifyEDIT Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="0 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+    </classes>
+  </test> <!-- PT_MSL_TC_09_ToverifyEDIT Test(failed) -->
+  <test name="PT_MSL_TC_10_ToverifyDELETE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_MSL_TC_10_ToverifyDELETE Test(failed) -->
+  <test name="PT_FB_TC_02_ToverifyADD Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_FB_TC_02_ToverifyADD Test(failed) -->
+  <test name="PT_FB_TC_05_ToverifyGroupADD Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_FB_TC_05_ToverifyGroupADD Test(failed) -->
+  <test name="PT_FB_TC_06_ToverifyPCM Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_FB_TC_06_ToverifyPCM Test(failed) -->
+  <test name="PT_FB_TC_09_ToverifyEDIT Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_FB_TC_09_ToverifyEDIT Test(failed) -->
+  <test name="PT_FB_TC_10_ToverifyDELETE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="tearDown"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM -->
+      <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT -->
+      <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD -->
+    </classes>
+  </test> <!-- PT_FB_TC_10_ToverifyDELETE Test(failed) -->
+</suite> <!-- Failed suite [ProductTagging Suite] -->

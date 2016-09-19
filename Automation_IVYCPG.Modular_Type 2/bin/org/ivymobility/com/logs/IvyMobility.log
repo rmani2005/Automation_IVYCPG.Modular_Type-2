@@ -1,0 +1,22 @@
+03/01/2016 13:15:27 DEBUG devpinoyLogger:73 - Loading Properties files
+03/01/2016 13:15:27 DEBUG devpinoyLogger:86 - Loaded Properties files successfully
+03/01/2016 13:15:27 DEBUG devpinoyLogger:90 - Loading All Excel files.....
+03/01/2016 13:15:27 DEBUG devpinoyLogger:109 - Loaded All Excel files successfully
+03/01/2016 13:15:31 INFO  devpinoyLogger:136 - Element Identified : : By.id: SUA_Login_Id
+03/01/2016 13:15:31 INFO  devpinoyLogger:358 - Entered Data in username Input Field
+03/01/2016 13:15:31 INFO  devpinoyLogger:136 - Element Identified : : By.id: SUA_Password
+03/01/2016 13:15:31 INFO  devpinoyLogger:368 - Entered Data in Password Input Field
+03/01/2016 13:15:31 INFO  devpinoyLogger:136 - Element Identified : : By.id: Login
+03/01/2016 13:15:32 INFO  devpinoyLogger:376 - Clicked on Login Button
+03/01/2016 13:15:32 DEBUG devpinoyLogger:20 - Checking Runmode of suitexls
+03/01/2016 13:15:33 INFO  devpinoyLogger:139 - Element Identified : : By.linkText: Masters
+03/01/2016 13:15:33 INFO  devpinoyLogger:139 - Element Identified : : By.linkText: User Management
+03/01/2016 13:15:34 INFO  devpinoyLogger:136 - Element Identified : : By.id: iContent
+03/01/2016 13:15:34 INFO  devpinoyLogger:151 - Element Identified : : By.xpath: //span[contains(text(),"Location")]
+03/01/2016 13:15:34 INFO  devpinoyLogger:136 - Element Identified : : By.id: iContent
+03/01/2016 13:15:36 INFO  devpinoyLogger:151 - Element Identified : : By.xpath: .//*[@id='DynamicLocationLevel']/div[1]
+03/01/2016 13:15:39 INFO  devpinoyLogger:151 - Element Identified : : By.xpath: //label[contains(text(),"Add")]
+03/01/2016 13:15:39 INFO  devpinoyLogger:136 - Element Identified : : By.id: AL_Code
+03/01/2016 13:15:40 INFO  devpinoyLogger:136 - Element Identified : : By.id: AL_Name
+03/01/2016 13:15:40 INFO  devpinoyLogger:151 - Element Identified : : By.xpath: //label[contains(text(),"Save")]
+03/01/2016 13:15:42 INFO  devpinoyLogger:136 - Element Identified : : By.id: alertContent

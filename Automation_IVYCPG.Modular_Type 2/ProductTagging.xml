@@ -1,0 +1,92 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ProductTagging Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="PT_MSL_TC_01_ToverifyADDscreen Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_01_ToverifyADDscreen" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PT_MSL_TC_02_ToverifyADD Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_02_ToverifyADD" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PT_MSL_TC_05_ToverifyGroupADD Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_05_ToverifyGroupADD" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PT_MSL_TC_06_ToverifyPCM Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_06_ToverifyPCM" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PT_MSL_TC_09_ToverifyEDIT Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_09_ToverifyEDIT" />  
+        </classes>
+                
+    </test>
+    
+      <test name="PT_MSL_TC_10_ToverifyDELETE Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_MSL_TC_10_ToverifyDELETE" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PT_FB_TC_01_ToverifyADDscreen Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_01_ToverifyADDscreen" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PT_FB_TC_02_ToverifyADD Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_02_ToverifyADD" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PT_FB_TC_05_ToverifyGroupADD Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_05_ToverifyGroupADD" />  
+        </classes>
+                
+    </test>
+    
+      <test name="PT_FB_TC_06_ToverifyPCM Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_06_ToverifyPCM" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PT_FB_TC_09_ToverifyEDIT Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_09_ToverifyEDIT" />  
+        </classes>
+                
+    </test>
+    
+    
+     <test name="PT_FB_TC_10_ToverifyDELETE Test">
+        <classes>
+            <class name="org.ivymobility.com.ProductTagging.PT_FB_TC_10_ToverifyDELETE" />  
+        </classes>
+                
+    </test>
+    
+  </suite> 

@@ -1,0 +1,50 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DigitalContent Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="DC_TC_115_ToverifyADDscreen Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.DC_TC_115_ToverifyADDscreen" />  
+        </classes>
+                
+    </test>
+    
+    <test name="DC_TC_100_ToverifyFields Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.DC_TC_100_ToverifyFields" />  
+        </classes>
+                
+    </test>
+    
+    <test name="ToverifyDeleteWithoutSelectingData Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.ToverifyDeleteWithoutSelectingData" />  
+        </classes>
+                
+    </test>
+    
+     <test name="ToveifyDELETEwithoutSlectingDatainDC Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.ToveifyDELETEwithoutSlectingDatainDC" />  
+        </classes>
+                
+    </test>
+    
+    <test name="DC_TC_111_ToverifyViewConfigurationbutton Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.DC_TC_111_ToverifyViewConfigurationbutton" />  
+        </classes>
+                
+    </test>
+    
+    
+    <test name="ToverifyEDITwithoutSelectingData Test">
+        <classes>
+            <class name="org.ivymobility.com.DigitalContent.ToverifyEDITwithoutSelectingData" />  
+        </classes>
+                
+    </test>
+    
+  </suite> 

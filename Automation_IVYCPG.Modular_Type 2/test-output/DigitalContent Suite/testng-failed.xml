@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DigitalContent Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="DC_TC_115_ToverifyADDscreen Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.DigitalContent.DC_TC_115_ToverifyADDscreen">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.DC_TC_115_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.DigitalContent.ToverifyDeleteWithoutSelectingData">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.ToverifyDeleteWithoutSelectingData -->
+      <class name="org.ivymobility.com.DigitalContent.DC_TC_100_ToverifyFields">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.DC_TC_100_ToverifyFields -->
+    </classes>
+  </test> <!-- DC_TC_115_ToverifyADDscreen Test(failed) -->
+  <test name="DC_TC_100_ToverifyFields Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.DigitalContent.DC_TC_115_ToverifyADDscreen">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.DC_TC_115_ToverifyADDscreen -->
+      <class name="org.ivymobility.com.DigitalContent.ToverifyDeleteWithoutSelectingData">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.ToverifyDeleteWithoutSelectingData -->
+      <class name="org.ivymobility.com.DigitalContent.DC_TC_100_ToverifyFields">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.DigitalContent.DC_TC_100_ToverifyFields -->
+    </classes>
+  </test> <!-- DC_TC_100_ToverifyFields Test(failed) -->
+</suite> <!-- Failed suite [DigitalContent Suite] -->

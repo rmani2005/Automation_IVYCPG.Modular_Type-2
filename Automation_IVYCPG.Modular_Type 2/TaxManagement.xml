@@ -1,0 +1,64 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TaxManagement Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="TM_TG_TC_01 Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_01" />  
+        </classes>
+                
+    </test>
+    
+     <test name="TM_TG_TC_02 Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_02" />  
+        </classes>
+                
+    </test>
+    
+      <test name="TM_TG_TC_03 Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_03" />  
+        </classes>
+                
+    </test>
+    
+      <test name="TM_TG_TC_04_ToverifyDELETE Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TG_TC_04_ToverifyDELETE" />  
+        </classes>
+                
+    </test>
+    
+       <test name="TM_TGM_TC_01_ToverifyADDscreen Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_01_ToverifyADDscreen" />  
+        </classes>
+                
+    </test>
+    
+    <test name="ToverifyEDITwithoutSelectingdatainTGM Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.ToverifyEDITwithoutSelectingdatainTGM" />  
+        </classes>
+                
+    </test>
+    
+    <test name="TM_TGM_TC_02_ToverifyEDIT Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TGM_TC_02_ToverifyEDIT" />  
+        </classes>
+                
+    </test>
+    
+    <test name="TM_TGM_03_ToverifyDELETE Test">
+        <classes>
+            <class name="org.ivymobility.com.TaxManagement.TM_TGM_03_ToverifyDELETE" />  
+        </classes>
+                
+    </test>
+    
+      
+  </suite>

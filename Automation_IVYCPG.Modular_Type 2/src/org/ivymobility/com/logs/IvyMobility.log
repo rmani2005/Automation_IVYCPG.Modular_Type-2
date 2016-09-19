@@ -1,0 +1,12 @@
+08/21/2016 19:57:04 DEBUG devpinoyLogger:73 - Loading Properties files
+08/21/2016 19:57:04 DEBUG devpinoyLogger:86 - Loaded Properties files successfully
+08/21/2016 19:57:04 DEBUG devpinoyLogger:90 - Loading All Excel files.....
+08/21/2016 19:57:05 DEBUG devpinoyLogger:109 - Loaded All Excel files successfully
+08/21/2016 19:57:39 INFO  devpinoyLogger:136 - Element Identified : : By.id: SUA_Login_Id
+08/21/2016 20:00:59 ERROR devpinoyLogger:360 - Unable to Enter Data in username Input Field
+08/21/2016 20:00:59 INFO  devpinoyLogger:136 - Element Identified : : By.id: SUA_Password
+08/21/2016 20:04:19 ERROR devpinoyLogger:370 - Unable to Enter Data in Password Input Field
+08/21/2016 20:04:19 INFO  devpinoyLogger:136 - Element Identified : : By.id: Login
+08/21/2016 20:07:39 ERROR devpinoyLogger:378 - Unable to Click on Login Button
+08/21/2016 20:07:39 DEBUG devpinoyLogger:21 - Checking Runmode of suitexls
+08/21/2016 20:08:02 INFO  devpinoyLogger:139 - Element Identified : : By.linkText: Masters

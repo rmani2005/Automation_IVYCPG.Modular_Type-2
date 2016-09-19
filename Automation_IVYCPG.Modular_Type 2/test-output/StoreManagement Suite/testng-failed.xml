@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [StoreManagement Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="ToverifyFieldsInADDscreen_SM_LL_TC_01 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToverifyFieldsInADDscreen_SM_LL_TC_01 Test(failed) -->
+  <test name="ToVerifyAddressScreen_SM_LL_TC_05 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToVerifyAddressScreen_SM_LL_TC_05 Test(failed) -->
+  <test name="ToAddOutletDetails_SM_LL_TC_07 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToAddOutletDetails_SM_LL_TC_07 Test(failed) -->
+  <test name="ToVerifyEDIT_SM_LL_TC_08 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToVerifyEDIT_SM_LL_TC_08 Test(failed) -->
+  <test name="ToVerifyDeactivate_SM_LL_TC_09 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToVerifyDeactivate_SM_LL_TC_09 Test(failed) -->
+  <test name="ToVerifyMakeActivae_PL_LL_TC_10 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToVerifyMakeActivae_PL_LL_TC_10 Test(failed) -->
+  <test name="ToVerifySearchScreen_PL_LL_TC_11 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="test1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- ToVerifySearchScreen_PL_LL_TC_11 Test(failed) -->
+  <test name="OPM_SM_SL_TC_01 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="test1" invocation-numbers="1 2 3 4"/>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05 -->
+      <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09 -->
+      <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07 -->
+      <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10">
+        <methods>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10 -->
+    </classes>
+  </test> <!-- OPM_SM_SL_TC_01 Test(failed) -->
+</suite> <!-- Failed suite [StoreManagement Suite] -->

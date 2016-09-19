@@ -1,0 +1,65 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="StoreManagement Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="ToverifyFieldsInADDscreen_SM_LL_TC_01 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToverifyFieldsInADDscreen_SM_LL_TC_01" />  
+        </classes>
+                
+    </test>
+    
+     <test name="ToVerifyAddressScreen_SM_LL_TC_05 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToVerifyAddressScreen_SM_LL_TC_05" />  
+        </classes>
+                
+    </test>
+    
+    
+     <test name="ToAddOutletDetails_SM_LL_TC_07 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToAddOutletDetails_SM_LL_TC_07" />  
+        </classes>
+                
+    </test>
+    
+    <test name="ToVerifyEDIT_SM_LL_TC_08 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToVerifyEDIT_SM_LL_TC_08" />  
+        </classes>
+                
+    </test>
+    
+    <test name="ToVerifyDeactivate_SM_LL_TC_09 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToVerifyDeactivate_SM_LL_TC_09" />  
+        </classes>
+                
+    </test>
+    
+       <test name="ToVerifyMakeActivae_PL_LL_TC_10 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToVerifyMakeActivae_PL_LL_TC_10" />  
+        </classes>
+                
+    </test>
+     
+      <test name="ToVerifySearchScreen_PL_LL_TC_11 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.ToVerifySearchScreen_PL_LL_TC_11" />  
+        </classes>
+                
+    </test>  
+     
+       <test name="OPM_SM_SL_TC_01 Test">
+        <classes>
+            <class name="org.ivymobility.com.StoreManagement.OPM_SM_SL_TC_01" />  
+        </classes>
+                
+    </test>  
+    
+    
+  </suite>

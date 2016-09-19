@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [userManagement Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="userManagement Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.usermanagementsuite.TestUserManagement">
+        <methods>
+          <include name="checkSuiteSkip"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.usermanagementsuite.TestUserManagement -->
+    </classes>
+  </test> <!-- userManagement Test(failed) -->
+</suite> <!-- Failed suite [userManagement Suite] -->

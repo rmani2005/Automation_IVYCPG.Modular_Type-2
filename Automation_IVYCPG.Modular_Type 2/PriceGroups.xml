@@ -1,0 +1,51 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PriceGroups Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="PM_PG_TC_01_ToVerifyADDscreen Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PM_PG_TC_02_ToveifyADDfunction Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PM_PG_TC_03_ToverifyEDIT Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT" />  
+        </classes>
+                
+    </test>
+    
+     <test name="PM_PG_TC_04_ToverifyDELETE Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE" />  
+        </classes>
+                
+    </test>
+    
+    
+     <test name="PD_TC_01_ToverifySAVE Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE" />  
+        </classes>
+                
+    </test>
+    
+    <test name="PGM_LL_TC_01_ToverifySAVE Test">
+        <classes>
+            <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE" />  
+        </classes>
+                
+    </test>
+    
+    
+  </suite> 

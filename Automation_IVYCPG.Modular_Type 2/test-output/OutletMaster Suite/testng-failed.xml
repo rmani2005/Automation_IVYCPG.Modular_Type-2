@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OutletMaster Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="Sample_002 Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.sample.Sample_001">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.sample.Sample_001 -->
+      <class name="org.ivymobility.com.sample.Sample_003">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.sample.Sample_003 -->
+      <class name="org.ivymobility.com.sample.Sample_002">
+        <methods>
+          <include name="sampleTes2"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.sample.Sample_002 -->
+    </classes>
+  </test> <!-- Sample_002 Test(failed) -->
+</suite> <!-- Failed suite [OutletMaster Suite] -->

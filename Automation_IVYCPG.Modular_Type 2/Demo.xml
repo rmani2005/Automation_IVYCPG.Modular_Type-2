@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Demo Suite">
+     <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    </listeners>
+    <test name="USM_Location Test">
+        <classes>
+            <class name="org.Demo.USM_Location" />  
+        </classes>
+                
+    </test>
+  </suite>

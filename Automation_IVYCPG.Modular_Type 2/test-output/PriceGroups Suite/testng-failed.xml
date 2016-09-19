@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PriceGroups Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="PM_PG_TC_02_ToveifyADDfunction Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen -->
+      <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT -->
+      <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE -->
+    </classes>
+  </test> <!-- PM_PG_TC_02_ToveifyADDfunction Test(failed) -->
+  <test name="PM_PG_TC_03_ToverifyEDIT Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen -->
+      <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="0 2 3 4 5 6 7 8 9"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT -->
+      <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE -->
+    </classes>
+  </test> <!-- PM_PG_TC_03_ToverifyEDIT Test(failed) -->
+  <test name="PM_PG_TC_04_ToverifyDELETE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen -->
+      <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT -->
+      <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE -->
+    </classes>
+  </test> <!-- PM_PG_TC_04_ToverifyDELETE Test(failed) -->
+  <test name="PD_TC_01_ToverifySAVE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen -->
+      <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT -->
+      <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE -->
+    </classes>
+  </test> <!-- PD_TC_01_ToverifySAVE Test(failed) -->
+  <test name="PGM_LL_TC_01_ToverifySAVE Test(failed)">
+    <classes>
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportDatasetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_04_ToverifyDELETE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_01_ToVerifyADDscreen -->
+      <class name="org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportDatasetResult"/>
+          <include name="tearDown"/>
+          <include name="checkTestSkip"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportTestResult"/>
+          <include name="test1" invocation-numbers="1 2 3 4 5 6 7 8 9"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PGM_LL_TC_01_ToverifySAVE -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_02_ToveifyADDfunction -->
+      <class name="org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PM_PG_TC_03_ToverifyEDIT -->
+      <class name="org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDatasetResult"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- org.ivymobility.com.PriceGroups.PD_TC_01_ToverifySAVE -->
+    </classes>
+  </test> <!-- PGM_LL_TC_01_ToverifySAVE Test(failed) -->
+</suite> <!-- Failed suite [PriceGroups Suite] -->
